@@ -55,7 +55,7 @@ Abaixo estão algumas métricas geradas dinamicamente sobre o meu perfil de dese
 
 ---
 
-## 💼 Repositórios & Projetos de Destaque
+<!--*## 💼 Repositórios & Projetos de Destaque
 
 Alguns dos principais ecossistemas e aplicações que desenvolvo e mantenho:
 
