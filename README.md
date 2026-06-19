@@ -2,14 +2,14 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na UEPB, apaixonado por criar soluções ponta a ponta: desde a infraestrutura em nuvem e APIs de alta concorrência em tempo real até aplicativos móveis e interfaces web ricas, modernas e performáticas.
+Sou formado em Ciência de Dados e graduando em Análise e Desenvolvimento de Sistemas na UEPB, apaixonado por criar soluções ponta a ponta: desde a infraestrutura em nuvem e APIs de alta concorrência em tempo real até aplicativos móveis e interfaces web ricas, modernas e performáticas.
 
 ---
 
 ## 🚀 Sobre mim
 * 💻 **Foco de Atuação:** Desenvolvimento FullStack, arquitetura de software e sistemas distribuídos e de tempo real.
 * 🤖 **Inteligência Artificial:** Entusiasta e estudioso de Machine Learning, Engenharia de Prompt, GenAI (com Firebase Genkit e LLMs) e Agentes Inteligentes.
-* 🎓 **Educação & Evolução:** Cursando ADS na UEPB, sempre aprimorando minhas práticas de código limpo, padrões de projeto e escalabilidade.
+* 🎓 **Educação & Evolução:** Formado em Ciência de Dados (CD) e graduando em ADS na UEPB, sempre aprimorando minhas práticas de código limpo, padrões de projeto e escalabilidade.
 
 ---
 
@@ -50,8 +50,18 @@ Abaixo estão algumas métricas geradas dinamicamente sobre o meu perfil de dese
 <!-- Lembre-se de substituir "RyanBorge" pelo seu usuário oficial caso seja diferente no GitHub -->
 ```
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanBorge&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanBorge&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=RyanBorge&show_icons=true&theme=radical" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanBorge&layout=compact&theme=radical" alt="Top Langs" />
+
+---
+
+## 💼 Repositórios & Projetos de Destaque
+
+Alguns dos principais ecossistemas e aplicações que desenvolvo e mantenho:
+
+*   **AFRAFEP (Web & Mobile)** — Portal e app corporativo integrado com backend Socket.io + Redis para comunicação em tempo real, Next.js 16 (React 19), Tailwind v4 e aplicativo mobile híbrido (Expo).
+*   **poinsp** — Sistema de alta escala para conformidade, fluxos de auditoria e manipulação/assinatura digital de PDFs, rodando sobre uma arquitetura de Next.js, Redis, e banco de dados PostgreSQL com réplicas de leitura.
+*   **vitalGourmet (Web & Mobile)** — E-commerce alimentício inteligente integrado com IA Generativa (Firebase Genkit AI + Gemini API), utilizando Next.js, banco MySQL e aplicativo mobile nativo (Expo Router + Reanimated).
 
 ---
 
