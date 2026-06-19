@@ -46,9 +46,7 @@ Sou formado em Ciência de Dados e graduando em Análise e Desenvolvimento de Si
 
 Abaixo estão algumas métricas geradas dinamicamente sobre o meu perfil de desenvolvimento:
 
-```markdown
 
-```
 
 <img src="https://github-readme-stats.vercel.app/api?username=RyanBorge&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanBorge&layout=compact&theme=radical" alt="Top Langs" />
