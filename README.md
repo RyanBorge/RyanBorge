@@ -67,4 +67,4 @@ Alguns dos principais ecossistemas e aplicações que desenvolvo e mantenho:
 
 ## 📫 Como me encontrar
 <!--* 💼 **LinkedIn:** [Ryan Borge](https://linkedin.com/in/ryanborge)  Insira seu link aqui -->
-* ✉️ **E-mail:** [ryanborge@example.com](mailto:ryanborge18@gmail.com) <!-- Insira seu e-mail aqui -->
+* ✉️ **E-mail:** [ryanborge18@gmail.com](mailto:ryanborge18@gmail.com) <!-- Insira seu e-mail aqui -->
