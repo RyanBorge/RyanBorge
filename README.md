@@ -49,10 +49,9 @@ Abaixo estão algumas métricas geradas dinamicamente sobre o meu perfil de dese
 
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=RyanBorge&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanBorge&layout=compact&theme=radical" alt="Top Langs" />
+  <img height="180" src="https://streak-stats.demolab.com?user=RyanBorge&theme=radical" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RyanBorge&layout=compact&theme=radical" alt="Top Langs" />
 </div>
-
 
 ## 📫 Como me encontrar
 <!--* 💼 **LinkedIn:** [Ryan Borge](https://linkedin.com/in/ryanborge)  Insira seu link aqui -->
