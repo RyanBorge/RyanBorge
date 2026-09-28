@@ -49,21 +49,10 @@ Abaixo estão algumas métricas geradas dinamicamente sobre o meu perfil de dese
 
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=RyanBorge&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v=1" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanBorge&layout=compact&theme=radical&v=1" alt="Top Langs" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=RyanBorge&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanBorge&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
----
-
-<!--*## 💼 Repositórios & Projetos de Destaque
-
-Alguns dos principais ecossistemas e aplicações que desenvolvo e mantenho:
-
-*   **AFRAFEP (Web & Mobile)** — Portal e app corporativo integrado com backend Socket.io + Redis para comunicação em tempo real, Next.js 16 (React 19), Tailwind v4 e aplicativo mobile híbrido (Expo).
-*   **poinsp** — Sistema de alta escala para conformidade, fluxos de auditoria e manipulação/assinatura digital de PDFs, rodando sobre uma arquitetura de Next.js, Redis, e banco de dados PostgreSQL com réplicas de leitura.
-*   **vitalGourmet (Web & Mobile)** — E-commerce alimentício inteligente integrado com IA Generativa (Firebase Genkit AI + Gemini API), utilizando Next.js, banco MySQL e aplicativo mobile nativo (Expo Router + Reanimated).
-
----
 
 ## 📫 Como me encontrar
 <!--* 💼 **LinkedIn:** [Ryan Borge](https://linkedin.com/in/ryanborge)  Insira seu link aqui -->
